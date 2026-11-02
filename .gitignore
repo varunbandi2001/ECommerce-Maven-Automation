@@ -1,0 +1,18 @@
+# Maven
+target/
+
+# Eclipse
+.metadata/
+.settings/
+
+# IntelliJ
+.idea/
+
+# Logs
+*.log
+
+# Test reports
+test-output/
+
+# Temporary files
+*.tmp
